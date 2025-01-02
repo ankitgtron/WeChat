@@ -76,7 +76,7 @@ The application workflow involves users logging in, engaging in chats, making ca
 - **Tasks:**  
   1. Configure **Socket.IO** for real-time communication.  
      - **Reading:** [Socket.IO Docs](https://socket.io/docs/v4/)  
-     - **Video:** [Socket.IO Tutorial](https://www.youtube.com/watch?v=O6JcOfhHz8k)  
+     - **Video:** [Socket.IO Tutorial](https://www.youtube.com/watch?v=UUddpbgPEJM&t=887s)  
   2. Create a user interface for chats using **React.js**.  
      - **Reading:** [React UI Design](https://react.dev/learn)  
      - **Video:** [React Chat App Tutorial](https://www.youtube.com/watch?v=3BjGe4eRWzY)  
@@ -94,7 +94,7 @@ The application workflow involves users logging in, engaging in chats, making ca
      - **Video:** [WebRTC Basics](https://www.youtube.com/watch?v=WmR9IMUD_CY)  
   2. Add call buttons to the chat interface.  
      - **Reading:** [React Integration with WebRTC](https://blog.logrocket.com/getting-started-webrtc-react/)  
-     - **Video:** [React Video Chat App](https://www.youtube.com/watch?v=4x2TpCDq9VA)  
+     - **Video:** [React Video Chat App](https://www.youtube.com/watch?v=SijtXUy4f4A&list=PLrujdOR6BS_3L_RO99U_ocVipm7Gc8wJq)  
 
 - **Deliverables:**  
   - Functional voice and video call system.
@@ -106,10 +106,10 @@ The application workflow involves users logging in, engaging in chats, making ca
 - **Tasks:**  
   1. Configure **Firebase Storage** for secure file uploads.  
      - **Reading:** [Firebase Storage Guide](https://firebase.google.com/docs/storage)  
-     - **Video:** [File Upload in Firebase](https://www.youtube.com/watch?v=JDnIBrZUXL0)  
+     - **Video:** [File Upload in Firebase](https://www.youtube.com/watch?v=YOAeBSCkArA)  
   2. Implement media preview and sharing in chats.  
      - **Reading:** [React File Upload](https://react.dev/learn)  
-     - **Video:** [React File Upload Tutorial](https://www.youtube.com/watch?v=ov7vA5HFe6w)  
+     - **Video:** [React File Upload Tutorial](https://www.youtube.com/watch?v=pWd6Enu2Pjs)  
 
 - **Deliverables:**  
   - Media sharing functionality.
@@ -121,10 +121,10 @@ The application workflow involves users logging in, engaging in chats, making ca
 - **Tasks:**  
   1. Deploy the backend on Heroku.  
      - **Reading:** [Heroku Deployment Guide](https://devcenter.heroku.com/articles/deploying-nodejs)  
-     - **Video:** [Heroku Deployment Tutorial](https://www.youtube.com/watch?v=Zml8bsh4d5A)  
+     - **Video:** [Heroku Deployment Tutorial](https://www.youtube.com/watch?v=DQk3zJlY-eE&t=16s)  
   2. Deploy the frontend on Vercel.  
      - **Reading:** [Vercel Deployment Guide](https://vercel.com/docs)  
-     - **Video:** [Vercel Deployment Tutorial](https://www.youtube.com/watch?v=JfSf3M7Q-oI)  
+     - **Video:** [Vercel Deployment Tutorial](https://www.youtube.com/watch?v=22Rywce_kcg&t=136s)  
 
 - **Deliverables:**  
   - Fully deployed WeChat clone.
@@ -145,6 +145,7 @@ The application workflow involves users logging in, engaging in chats, making ca
 1. [React Documentation](https://react.dev/learn)  
 2. [MongoDB Documentation](https://www.mongodb.com/docs/manual/)  
 3. [Firebase Authentication Docs](https://firebase.google.com/docs/auth)  
-4. [Socket.IO Documentation](https://socket.io/docs/v4/)  
+4. [Socket.IO Documentation](https://socket.io/docs/v4/)
+5. https://www.youtube.com/watch?v=bSbHeUrUPwQ&list=PLdLUE-L26MMbXYkddCi6Cb1jy5dKczosk 
 
 ---
